@@ -23,8 +23,4 @@ This PCB is designed to monitor the water level inside an overhead or storage ta
 
 
 
-├── Images
-│   ├── Schematic_Preview.png
-│   └── PCB_3D_View.png
-│
-└── README.md
+
