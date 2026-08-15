@@ -22,24 +22,7 @@ This PCB is designed to monitor the water level inside an overhead or storage ta
 - **JLCPCB Gerber Generator** – Fabrication Files
 
 
-## 📂 Repository Structure
 
-WATER-LEVEL-INDICATOR---PCB-DESIGN
-│
-├── Schematic
-│   ├── Water_Level_Indicator_Schematic.pdf
-│   └── Water_Level_Indicator_Schematic.png
-│
-├── PCB
-│   ├── Water_Level_Indicator_PCB.pdf
-│   └── Water_Level_Indicator_PCB_3D.png
-│
-├── Gerbers
-│   └── Water_Level_Indicator_Gerber.zip
-│
-├── BOM
-│   └── Water_Level_Indicator_BOM.csv
-│
 ├── Images
 │   ├── Schematic_Preview.png
 │   └── PCB_3D_View.png
